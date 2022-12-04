@@ -4,8 +4,10 @@
   --default-font-family: "Poppins", sans-serif;
   --secondary-color: #f9f7fe;
 }
+
 body {
   font-family: var(--default-font-family);
+  background-image: url("photo.jpg");
 }
 h1,
 h2,
