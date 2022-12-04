@@ -28,7 +28,7 @@ h3 {
   font-size: 48px;
 }
 p {
-  font-weight: normal;
+  font-size: normal;
 }
 .hero {
   background-color: var(--secondary-color);
